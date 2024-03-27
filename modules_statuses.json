@@ -1,0 +1,10 @@
+{
+    "Home": true,
+    "Package": true,
+    "User": true,
+    "Pages": true,
+    "Blog": true,
+    "Booking": true,
+    "Destination": true,
+    "Contact": true
+}
